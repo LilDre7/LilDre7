@@ -16,9 +16,9 @@
   <a href="" > 
     <img src="https://img.shields.io/netlify/o?label=netlify%20%F0%9F%8F%8C%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F&logo=netlify&logoColor=red&style=for-the-badge" />
   </a>
-</div>
+</  div  > _ _
+ 
 
-  <img src"https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200px" />
 
 ### 👨🏾‍💻 About me:
 
