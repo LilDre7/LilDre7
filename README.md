@@ -8,7 +8,7 @@
 
 <div id="badges" align="center" > 
   <a href="" > 
-    <img src=<"https://img.shields.io/twitter/follow/LilDree7?color=blue&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/LilDree7?color=blue&logo=twitter&style=for-the-badge" />
   </a>
   <a href="" > 
     <img src="https://img.shields.io/discourse/status?color=red&label=Discord%20%E2%9A%97%EF%B8%8F&logo=discord&server=https%3A%2F%2Fdiscord.com%2Fchannels%2F1087861485134413897&style=for-the-badge" />
