@@ -58,10 +58,59 @@ graph TD;
     Front-End-->Figma;
     Front-End-->Canvas;
     Front-End-->Apis's;
-    
-    
+  ```
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">      
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">     
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">    
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">     
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   
+<p/>
+
+<!---------------------------------------------------------------------------------------------------->
+
 ```mermaid
 graph TD;
     Back-End-->NodeJs;
     NodeJs-->Express;
     NodeJs-->Deno;
+    NodeJs-->Firabase;
+```
+
+<p align="center">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">        
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">      
+  <img src="" width="48" title="">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   
+  <img src="https://png2.cleanpng.com/sh/30a60f8b0e1670abdf3d62f3292e5432/L0KzQYm3VsE1N5ZBkZH0aYP2gLBuTf5wbJYyguU2ZYjzgrb6k71re15veehqc3P1ecH7TgNwdKZ5gdH3LYP3cbTyTgdmal5mRadrMkLlSbW8V8Q0PpU3RqcBM0i5QYa7UcUzQWE1SqYAM0S6RnB3jvc=/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d57436d2.563861541529002453476.png" width="80" title="Express">
+<p/>
+
+<!---------------------------------------------------------------------------------------------------->
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count 👽 </b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+  <br>
+</div>
+
+<!---------------------------------------------------------------------------------------------------->
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
