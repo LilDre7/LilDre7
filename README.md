@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200px" />
+  <img src"https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200px" />
   <h1 align="center">Hi 👨🏾‍💻⚗️, i'm Lil Dree, It's my pleasure. </h1>
   <h3 align="center" >
     ¡Hola, soy Lil Dree! Un apasionado desarrollador de software con sede en Costa Rica, actualmente me dedico a estudiar y mejorar. Me encanta programar y en este portafolio podrás encontrar ejemplos de mis habilidades y experiencia como desarrollador.
@@ -16,9 +16,9 @@
   <a href="" > 
     <img src="https://img.shields.io/netlify/o?label=netlify%20%F0%9F%8F%8C%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F&logo=netlify&logoColor=red&style=for-the-badge" />
   </a>
-</  div  > _ _
- 
+</div>
 
+  <img src"https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200px" />
 
 ### 👨🏾‍💻 About me:
 
@@ -42,10 +42,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png?20211115112438" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Github-circle_%28CoreUI_Icons_v1.0.0%29.svg/2048px-Github-circle_%28CoreUI_Icons_v1.0.0%29.svg.png" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
 
@@ -53,8 +53,8 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LilDre7&theme=dracula&border_radius=5.6&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![LilDre7 GitHub stats](https://github-readme-stats.vercel.app/api?username=LilDre7&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
