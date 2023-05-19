@@ -18,8 +18,6 @@
   </a>
 </div>
 
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200px" />
-
 ### 👨🏾‍💻 About me:
 
 - 📝 I'm very good against problems
