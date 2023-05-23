@@ -14,16 +14,13 @@
     experiencia como desarrollador.
   </h3>
 </div>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LilDre7&bg_color=0d1117&color=ffffff&line=02D9F7FF&point=f9fafa&area=true&hide_border=true)
-
 <!---------------------------------------------------------------------------------------------------->
 
-### 👨🏾‍💻 About me: - 📝 I'm very good against problems 
+### 👨🏾‍💻 Sobre mi: - 📝 Hola soy Alvaro, un placer amigo! 👨🏾‍💻 
 
-- 💬 Ask me about **React, Css, Threejs, Javascript** 
-- 📫 How to reach me **alvaroaburto71@gmail.com** 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity** 
+- 💬 Preguntame sobre **React, Css, Threejs, Javascript** 
+- 📫 Como me puedes contactar **alvaroaburto71@gmail.com** 
+- 🌱 Actualmente estoy aprendiendo **React.js, Blockchain, Web3 and Solidity** 
 - 🌐 Website [https://lilmiporfolio.netlify.app/](https://lilmiporfolio.netlify.app/)
 
 <!---------------------------------------------------------------------------------------------------->
