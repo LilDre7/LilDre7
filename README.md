@@ -95,7 +95,7 @@ graph TD;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">      
   <img src="" width="48" title="">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   
-  <img src="https://png2.cleanpng.com/sh/30a60f8b0e1670abdf3d62f3292e5432/L0KzQYm3VsE1N5ZBkZH0aYP2gLBuTf5wbJYyguU2ZYjzgrb6k71re15veehqc3P1ecH7TgNwdKZ5gdH3LYP3cbTyTgdmal5mRadrMkLlSbW8V8Q0PpU3RqcBM0i5QYa7UcUzQWE1SqYAM0S6RnB3jvc=/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d57436d2.563861541529002453476.png" width="80" title="Express">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/ExpressJS-Dark.svg" width="48" title="Express">
 <p/>
 
 <!---------------------------------------------------------------------------------------------------->
