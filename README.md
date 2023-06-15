@@ -9,9 +9,7 @@
   />
   <h3 align="center">
     ¡Hola, soy Lil Dree! Un apasionado desarrollador de software con sede en
-    Costa Rica, actualmente me dedico a estudiar y mejorar. Me encanta programar
-    y en este portafolio podrás encontrar ejemplos de mis habilidades y
-    experiencia como desarrollador.
+    Costa Rica. Soy desarrollador Web-Full Stack
   </h3>
 </div>
 <!---------------------------------------------------------------------------------------------------->
