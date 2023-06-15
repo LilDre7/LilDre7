@@ -13,7 +13,7 @@
   </h3>
 </div>
 <!---------------------------------------------------------------------------------------------------->
-<div align="left>
+<div align="left">
 ### 👨🏾‍💻 Sobre mi: - 📝 Hola soy Alvaro, un placer amigo! 👨🏾‍💻 
 
 - 💬 Preguntame sobre **React, Css, Threejs, Javascript** 
