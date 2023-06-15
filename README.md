@@ -4,31 +4,22 @@
 
 <div id="header" align="center">
   <img
-    src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"
+src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"
     width="full"
   />
-  <h3 align="left">
+  <h3 align="center">
     ¡Hola, soy Lil Dree! Un apasionado desarrollador de software con sede en
     Costa Rica. Soy desarrollador Web-Full Stack
   </h3>
 </div>
 <!---------------------------------------------------------------------------------------------------->
-<div align="left">
+<div align="center">
 ### 👨🏾‍💻 Sobre mi: - 📝 Hola soy Alvaro, un placer amigo! 👨🏾‍💻 
 
 - 💬 Preguntame sobre **React, Css, Threejs, Javascript** 
 - 📫 Como me puedes contactar **alvaroaburto71@gmail.com** 
 - 🌱 Actualmente estoy aprendiendo **React.js, Blockchain, Web3 and Solidity** 
 - 🌐 Website [https://lilmiporfolio.netlify.app/](https://lilmiporfolio.netlify.app/)
-</div>
-
-
-<div align="right">
- <img
-    src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47w1tbxwgc7jokjvwd6g169qep7bl7p7g8v5mxlfet&ep=v1_gifs_search&rid=giphy.gif&ct=g"
-    width="30%"
-  />
-
 </div>
 <!---------------------------------------------------------------------------------------------------->
 
