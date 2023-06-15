@@ -14,7 +14,9 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 </div>
 <!---------------------------------------------------------------------------------------------------->
 <div align="left">
-- 👨🏾‍💻 Sobre mi: 📝 Hola soy Alvaro, un placer amigo! 👨🏾‍💻 
+  <h4 align="left">
+    👨🏾‍💻 Sobre mi: - 📝 Hola soy Alvaro, un placer amigo! 👨🏾‍💻 
+  </h4>
 
 - 💬 Preguntame sobre **React, Css, Threejs, Javascript** 
 - 📫 Como me puedes contactar **alvaroaburto71@gmail.com** 
