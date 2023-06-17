@@ -20,7 +20,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 
 - 💬 Preguntame sobre **React, Css, Threejs, Javascript** 
 - 📫 Como me puedes contactar **alvaroaburto71@gmail.com** 
-- 🌱 Actualmente estoy aprendiendo **React.js, Blockchain, Web3 and Solidity** 
+- 🌱 Actualmente estoy aprendiendo **MongoDB, JAVA, Web3 and Solidity** 
 - 🌐 Website [https://lilmiporfolio.netlify.app/](https://lilmiporfolio.netlify.app/)
 </div>
 <!---------------------------------------------------------------------------------------------------->
