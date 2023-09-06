@@ -12,7 +12,9 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
     Costa Rica. Soy desarrollador Web-Full Stack
   </h3>
 </div>
+
 <!---------------------------------------------------------------------------------------------------->
+
 <div align="left">
   <h4 align="left">
     👨🏾‍💻 Sobre mi: - 📝 Hola soy Alvaro, un placer amigo! 👨🏾‍💻 
@@ -23,6 +25,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 - 🌱 Actualmente estoy aprendiendo **MongoDB, Python , Web3 and Solidity** 
 - 🌐 Website [https://lilmiporfolio.netlify.app/](https://lilmiporfolio.netlify.app/)
 </div>
+
 <!---------------------------------------------------------------------------------------------------->
 
 <div align="center">  
@@ -41,21 +44,10 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 
 <!---------------------------------------------------------------------------------------------------->
 
-```mermaid
-graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
-    Front-End-->React;
-    Front-End-->Tailwind;
-    Front-End-->JSON;
-    Front-End-->SASS;
-    Front-End-->Boostrap;
-    Front-End-->Treejs;
-    Front-End-->Figma;
-    Front-End-->Canvas;
-    Front-End-->Apis's;
-  ```
+  <h2 align="center">
+    👨🏾‍💻 Mi stack en Front-end UX-UI ⚗️ 
+  </h2>
+
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
@@ -81,14 +73,10 @@ graph TD;
 
 <!---------------------------------------------------------------------------------------------------->
 
+  <h2 align="center">
+    👨🏾‍💻 Mi stack en Back-end ⚔️ 
+  </h2>
 
-[```mermaid
-graph TD;
-    Back-End-->NodeJs;
-    NodeJs-->Express;
-    NodeJs-->Deno;
-    NodeJs-->Firabase;
-```](url)
 <p align="center">   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">        
