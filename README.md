@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
     width="full"
   />
   <h3 align="center">
-    ¡Hola, soy Lil Dree! Un apasionado desarrollador de software con sede en
+    ¡Hola, soy Lil Dree! <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Un apasionado desarrollador de software con sede en
     Costa Rica. Soy desarrollador Web-Full Stack
   </h3>
 </div>
