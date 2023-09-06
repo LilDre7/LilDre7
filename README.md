@@ -94,7 +94,6 @@ graph TD;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">        
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">     
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/ExpressJS-Dark.svg" width="48" title="Express">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/Docker.svg" width="48" title="Docker">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/Prisma.svg" width="48" title="Prisma">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/PostgreSQL-Dark.svg" width="48" title="Postgres">
