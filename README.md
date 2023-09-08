@@ -69,6 +69,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/TypeScript.svg" width="48" title="TypeScript">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/MaterialUI-Light.svg" width="48" title="MaterialUI">
+<img width="144" height="144" src="https://img.icons8.com/color/144/000000/express-js.png" alt="express-js"/>
 <p/>
 
 <!---------------------------------------------------------------------------------------------------->
