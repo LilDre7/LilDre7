@@ -58,6 +58,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">     
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">   
+<img width="48" src="https://img.icons8.com/clouds/100/windows-11.png" alt="windows-11"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">    
@@ -69,7 +70,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/TypeScript.svg" width="48" title="TypeScript">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/MaterialUI-Light.svg" width="48" title="MaterialUI">
-<img width="144" height="48" src="https://img.icons8.com/color/144/000000/express-js.png" alt="express-js"/>
+<img width="48" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
 <p/>
 
 <!---------------------------------------------------------------------------------------------------->
