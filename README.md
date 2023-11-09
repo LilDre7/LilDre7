@@ -1,30 +1,86 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+soy+Alvaro;Tengo+20+años+Un+placer;👋+👋;Bienvenidos!)
+
+#  < Hola Mundo  />
 
 <!---------------------------------------------------------------------------------------------------->
 
-<div id="header" align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvaro-aburto-dev/" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white"
+      alt="LinkedIn Badge"
+    /></a
+  >
+  <a href="https://www.instagram.com/👽/" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white"
+      alt="Instagram Badge"
+    /></a
+  >
+  <a href="https://lilmiporfolio.netlify.app/" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-🤴🏾PortafolioWeb-0A0A0B?logo=Portafolio&style=for-the-badge&logoColor=white"
+      alt="Twitter Badge"
+    /></a
+  >
+</p>
+
+<!---------------------------------------------------------------------------------------------------->
+
+<div id="header" align="left">
   <img
 src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"
     width="full"
   />
-  <h3 align="center">
-    ¡Hola, soy Lil Dree! <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Un apasionado desarrollador de software con sede en
-    Costa Rica. Soy desarrollador Web-Full Stack
-  </h3>
+
+<!---------------------------------------------------------------------------------------------------->
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count 👽 </b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+  <br>
 </div>
 
 <!---------------------------------------------------------------------------------------------------->
 
-<div align="left">
-  <h4 align="left">
-    👨🏾‍💻 Sobre mi: - 📝 Hola soy Alvaro, un placer amigo! 👨🏾‍💻 
-  </h4>
+```javascript
+const anmol = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "Python"],
+  askMeAbout: ["web dev", "tech", "app dev", "IA"],
+  technologies: {
+    FrontEnd: {
+      js: ["ReactJs", "VueJs", "Astro"],
+    },
+    backEnd: {
+      js: ["Node", "MongoDB", "Express", "Deno"],
+    },
+    mobileApp: {
+      native: ["React Native"],
+    },
+    devOps: ["AWS", "Docker🐳"],
+    databases: ["mongo", "MySql", "NoSql"],
+    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "GitHib"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
+  currentFocus: "In web and mobile development",
+  funFact:
+    "There are two ways to write error-free programs; only the third one works",
+};
 
-- 💬 Preguntame sobre **React, Css, Threejs, Javascript** 
-- 📫 Como me puedes contactar **alvaroaburto71@gmail.com** 
-- 🌱 Actualmente estoy aprendiendo **MongoDB, Python , Web3 and Solidity** 
-- 🌐 Website [https://lilmiporfolio.netlify.app/](https://lilmiporfolio.netlify.app/)
-</div>
+```
+
+<!---------------------------------------------------------------------------------------------------->
+
+```text
+🌞 Morning                626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+🌆 Daytime                1897 commits        ██████████░░░░░░░░░░░░░░░   38.05 % 
+🌃 Evening                1586 commits        ████████░░░░░░░░░░░░░░░░░   31.81 % 
+🌙 Night                  877 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+```
 
 <!---------------------------------------------------------------------------------------------------->
 
@@ -36,68 +92,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 
 <!---------------------------------------------------------------------------------------------------->
 
-<p align="center">
-  <br/><br/><a href="https://www.linkedin.com/in/alvaro-aburto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-  <a href="https://twitter.com/👽" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
-</p>
 
-<!---------------------------------------------------------------------------------------------------->
-
-  <h2 align="center">
-    👨🏾‍💻 Mi stack en Front-end UX-UI ⚗️ 
-  </h2>
-
-<p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">      
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">     
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">   
-<img width="48" src="https://img.icons8.com/clouds/100/windows-11.png" alt="windows-11"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">    
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">    
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">     
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/TypeScript.svg" width="48" title="TypeScript">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/MaterialUI-Light.svg" width="48" title="MaterialUI">
-<img width="48" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
-<p/>
-
-<!---------------------------------------------------------------------------------------------------->
-
-  <h2 align="center">
-    👨🏾‍💻 Mi stack en Back-end ⚔️ 
-  </h2>
-
-<p align="center">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">        
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">     
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/Docker.svg" width="48" title="Docker">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/Prisma.svg" width="48" title="Prisma">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/PostgreSQL-Dark.svg" width="48" title="Postgres">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/TypeScript.svg" width="48" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/Git.svg" width="48" title="Git">
-<p/>
-
-<!---------------------------------------------------------------------------------------------------->
-
-<div align="center">
-  <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
-  <br>
-</div>
 
 <!---------------------------------------------------------------------------------------------------->
 
