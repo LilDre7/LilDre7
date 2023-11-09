@@ -103,12 +103,3 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-
-
-<a href="https://github.com/LilDre7">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LilDre7/LilDre7/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/LilDre7/LilDre7/main/light_mode.svg">
-  </picture>
-</a>
-
