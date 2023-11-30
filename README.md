@@ -59,7 +59,7 @@ const anmol = {
     },
     devOps: ["AWS", "Docker🐳"],
     databases: ["mongo", "MySql", "NoSql"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "GitHib"],
+    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "GitHib", "GitLab"],
   },
   architecture: [
     "Serverless Architecture",
