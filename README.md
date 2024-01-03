@@ -8,8 +8,7 @@
       src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white"
       alt="LinkedIn Badge"
     />
-  </a
-  >
+  </a>
   <a href="https://www.instagram.com/👽/" target="_blank"
     ><img
       src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white"
