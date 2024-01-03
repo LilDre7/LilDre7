@@ -9,12 +9,12 @@
       alt="LinkedIn Badge"
     />
   </a>
-  <a href="https://www.instagram.com/👽/" target="_blank"
-    ><img
+  <a href="https://www.instagram.com/👽/" target="_blank">
+    <img
       src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white"
       alt="Instagram Badge"
-    /></a
-  >
+    />
+  </a>
   <a href="https://lilmiporfolio.netlify.app/" target="_blank"
     ><img
       src="https://img.shields.io/badge/-🤴🏾PortafolioWeb-0A0A0B?logo=Portafolio&style=for-the-badge&logoColor=white"
