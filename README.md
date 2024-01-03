@@ -2,7 +2,7 @@
 
 <!---------------------------------------------------------------------------------------------------->
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/alvaro-aburto-dev/" target="_blank">
     <img
       src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white"
@@ -21,7 +21,7 @@
       alt="Twitter Badge"
     /></a
   >
-</p>
+</div>
 
 <!---------------------------------------------------------------------------------------------------->
 
