@@ -9,10 +9,10 @@
       alt="LinkedIn Badge"
     />
   </a>
-  <a href="https://www.instagram.com/👽/" target="_blank">
+  <a href="https://bento.me/alvaroaburto" target="_blank">
     <img
-      src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white"
-      alt="Instagram Badge"
+      src="https://img.shields.io/badge/Alvaro_Aburto-black?style=plastic&logoColor=white&color=black"
+      alt="Beto Badge"
     />
   </a>
   <a href="https://alvaro-website.vercel.app/" target="_blank"
