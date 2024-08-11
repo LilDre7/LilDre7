@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/alvaro-aburto-dev/" target="_blank">
     <img
-      src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white"
+      src="https://img.shields.io/badge/LINKEDIN-black?style=plastic&logoColor=white&logoSize=4rem&color=black"
       alt="LinkedIn Badge"
     />
   </a>
@@ -17,7 +17,7 @@
   </a>
   <a href="https://alvaro-website.vercel.app/" target="_blank"
     ><img
-      src="https://img.shields.io/badge/-🤴🏾PortafolioWeb-0A0A0B?logo=Portafolio&style=for-the-badge&logoColor=white"
+      src="https://img.shields.io/badge/MY_WEBSITE-black?style=plastic&logoColor=white&logoSize=4rem&color=black"
       alt="Twitter Badge"
     /></a
   >
