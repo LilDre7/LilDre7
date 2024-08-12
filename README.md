@@ -1,27 +1,14 @@
-#  < Hola Mundo  /> 
 
 <!---------------------------------------------------------------------------------------------------->
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alvaro-aburto-dev/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-black?style=plastic&logoColor=white&logoSize=4rem&color=black"
-      alt="LinkedIn Badge"
-    />
-  </a>
-  <a href="https://bento.me/alvaroaburto" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Alvaro_Aburto-black?style=plastic&logoColor=white&color=black"
-      alt="Beto Badge"
-    />
-  </a>
-  <a href="https://alvaro-website.vercel.app/" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/MY_WEBSITE-black?style=plastic&logoColor=white&logoSize=4rem&color=black"
-      alt="Twitter Badge"
-    /></a
-  >
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/lil dre" target="blank"><img align="center" src="https://www.svgrepo.com/show/521688/github.svg" alt="lil dre" height="30" width="40" /></a>
+<a href="https://dev.to/lildre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lildre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alvaro aburto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro aburto" height="30" width="40" /></a>
+<a href="https://codesandbox.com/lil dre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="lil dre" height="30" width="40" /></a>
+</p>
+
 
 <!---------------------------------------------------------------------------------------------------->
 
