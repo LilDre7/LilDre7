@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://github.com/LilDre7" target="blank"><img align="center" src="https://www.svgrepo.com/show/521688/github.svg" alt="lil dre" height="30" width="40" /></a>
+<a href="https://github.com/LilDre7" target="blank"><img align="center" src="https://www.svgrepo.com/show/475654/github-color.svg" alt="lil dre" height="30" width="40" /></a>
 <a href="https://dev.to/lildre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lildre" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/alvaro-aburto-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro aburto" height="30" width="40" /></a>
 
