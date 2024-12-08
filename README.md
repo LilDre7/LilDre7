@@ -41,14 +41,14 @@
 ```javascript
 const anmol = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Python"],
+  code: ["Javascript", "Typescript",],
   askMeAbout: ["web dev", "tech", "app dev", "IA"],
   technologies: {
     FrontEnd: {
-      js: ["ReactJs", "VueJs", "Astro"],
+      js: ["NextJs", "ReactJs", "VueJs", "Astro"],
     },
     backEnd: {
-      js: ["Node", "MongoDB", "Express", "Deno"],
+      js: ["Node", "MongoDB", "Deno"],
     },
     mobileApp: {
       native: ["React Native"],
