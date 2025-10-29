@@ -21,58 +21,40 @@
 <!---------------------------------------------------------------------------------------------------->
 
 ```javascript
-const anmol = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript",],
-  askMeAbout: ["web dev", "tech", "app dev", "IA"],
-  technologies: {
-    FrontEnd: {
-      js: ["NextJs", "ReactJs", "VueJs", "Astro"],
-    },
-    backEnd: {
-      js: ["Node", "MongoDB", "Deno"],
-    },
-    mobileApp: {
-      native: ["React Native"],
-    },
-    devOps: ["AWS", "Docker🐳"],
-    databases: ["mongo", "MySql", "NoSql"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "GitHib", "GitLab"],
-  },
+const skills = {
   architecture: [
+    "Progressive Web Applications (PWA)",
     "Serverless Architecture",
-    "Progressive web applications",
-    "Single page applications",
+    "Single Page Applications (SPA)",
   ],
-  currentFocus: "In web and mobile development",
+  askMeAbout: ["AI", "App Development", "Tech", "Web Development"],
+  code: ["JavaScript", "TypeScript"],
+  currentFocus: "Web and Mobile Development",
   funFact:
-    "There are two ways to write error-free programs; only the third one works",
+    "There are two ways to write error-free programs; only the third one works 😅",
+  pronouns: ["He", "Him"],
+  technologies: {
+    backEnd: {
+      databases: ["MongoDB", "MySQL", "NoSQL"],
+      technologies: ["Deno", "Node.js"],
+    },
+    devOps: ["AWS", "Docker"],
+    frontEnd: {
+      frameworks: ["Astro", "Next.js", "React", "Vue.js"],
+    },
+    misc: ["Firebase", "GitHub", "GitLab", "OpenCV", "Selenium", "Socket.IO"],
+    mobile: {
+      frameworks: ["React Native"],
+    },
+  },
 };
 
 ```
 
 <!---------------------------------------------------------------------------------------------------->
 
-<div align="center">
-	
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-</div>
-
-
-```text
-🌞 Morning                626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-🌆 Daytime                1897 commits        ████████░░░░░░░░░░░░░░░░░   38.05 % 
-🌃 Evening                1586 commits        ████████░░░░░░░░░░░░░░░░░   31.81 % 
-🌙 Night                  877 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-```
-
 <!---------------------------------------------------------------------------------------------------->
 
-<div align="center">    
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LilDre7&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilDre7&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
 
 <!---------------------------------------------------------------------------------------------------->
 
