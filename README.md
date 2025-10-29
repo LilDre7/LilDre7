@@ -31,7 +31,7 @@ const skills = {
   code: ["JavaScript", "TypeScript"],
   currentFocus: "Web and Mobile Development",
   funFact:
-    "There are two ways to write error-free programs; only the third one works 😅",
+    "There are two ways to write error-free programs; only the third one works",
   pronouns: ["He", "Him"],
   technologies: {
     backEnd: {
